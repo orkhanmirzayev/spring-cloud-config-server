@@ -1,0 +1,8 @@
+encrypt:
+  key: aaa
+spring:
+  cloud:
+    config:
+      server:
+        encrypt: 
+          enabled: false
